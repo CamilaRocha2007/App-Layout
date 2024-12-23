@@ -1,6 +1,6 @@
 # App Layout
 
-A new Flutter project.
+Programa desenvolvido como atividade para a Unidade 2 da dicciplina 11 (Desenvolvimento Web) do programa Talento Tech - PR
 
 ## Getting Started
 
